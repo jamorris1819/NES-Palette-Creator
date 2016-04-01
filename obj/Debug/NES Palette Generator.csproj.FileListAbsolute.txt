@@ -1,0 +1,10 @@
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\NES Palette Generator\bin\Debug\NES Palette Generator.exe.config
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\bin\Debug\NES Palette Generator.exe.config
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\bin\Debug\NES Palette Generator.exe
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\bin\Debug\NES Palette Generator.pdb
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\obj\Debug\NES Palette Generator.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\obj\Debug\NES_Palette_Generator.Properties.Resources.resources
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\obj\Debug\NES Palette Generator.csproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\obj\Debug\NES Palette Generator.exe
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\obj\Debug\NES Palette Generator.pdb
+C:\Users\Jacob\Documents\GitHub\NES-Palette-Creator\obj\Debug\NES_Palette_Generator.Form1.resources
