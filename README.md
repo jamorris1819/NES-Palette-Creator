@@ -1,4 +1,4 @@
 # NES Palette Creator
-A program for creating palettes for the NES console. 
+I've taken on developing NES games, and needed to create palettes to use in game. The program is simple to use, simply type in the hexadecimal number into the individual palette boxes (use a reference image such as [this](http://bobrost.com/nes/files/NES_Palette.png). You can save, load and edit .pal files with this program.
 
-I struggled to find a working palette creator for the NES, so I decided to make my own.
+![image](http://i.imgur.com/B5NyN8W.png)
